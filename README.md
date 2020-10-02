@@ -1,3 +1,3 @@
 # Java-Codes
 
-Java Codes for Competitive Programming
+This Repository contains implementation of all Data Structures and Algorithms in Java. 
