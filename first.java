@@ -1,4 +1,5 @@
 import java.util.*;
+
 import java.io.*;
 class septone
 {
@@ -7,7 +8,7 @@ class septone
 		FastScanner KB = new FastScanner();
 	    PrintWriter pw = new PrintWriter(System.out);
 		StringBuilder out = new StringBuilder();
-		int T,i,j,k,N;
+		int T,i,j,k,N,y;
 		T=KB.nextInt();
 		for(k=1;k<=T;k++)
 		{
